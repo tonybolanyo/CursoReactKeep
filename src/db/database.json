@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "La monja que vivió en el siglo XI que entre otras cosas, desarrolló una fórmula para hacer cerveza que a dia de hoy es utiliazda en todo el mundo.", "author": "Hildegarda de Bingen" },
+    { "id": 2, "title": "Sin el trabajo de Rosalind Franklin no hubiera sido posible descifrar la estructura del ADN.", "author": "Rosalind Franklin" },
+    { "id": 3, "title": "La primera mujer astrónoma, nacida en el año 370 d.C.", "author": "Hipatia de alejandría" },
+    { "id": 4, "title": "La primera matemática Rusa de importancia y la primera mujer que consiguió una plaza de profesora universitaria en Europa.", "author": "Sofía Kovalewskaia" },
+    { "id": 5, "title": "La primera programadora informática de la história. 1815 - 1852. También considerada como la mujer que inventó la informática.", "author": "Ada Lovelace" }
+  ]
+}

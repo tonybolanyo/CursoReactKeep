@@ -8,7 +8,7 @@ module.exports = Merge(CommonConfig, {
     inline: true,
     quiet: false,
     contentBase: './dist',
-    port: 3000,
+    port: 8000,
     stats: {
       colors: true
     },
@@ -17,7 +17,7 @@ module.exports = Merge(CommonConfig, {
   plugins: [
     new webpack.DefinePlugin({
       'process.env.NODE_ENV': JSON.stringify('dev'),
-      API_URL: JSON.stringify('')
+      API_URL: JSON.stringify('http://localhost:3000')
     })
   ]
 });
